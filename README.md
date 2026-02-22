@@ -1,8 +1,3 @@
-# ════════════════════════════════════════════════════════════════
-# FINAL PREPARATION: Create README.md
-# ════════════════════════════════════════════════════════════════
-
-readme_content = """# 🌍 Climate Risk Insurance Analytics
 
 **AI-Powered Climate Risk Assessment & Premium Optimization**
 
@@ -52,20 +47,6 @@ This project addresses: *"Assess climate change risks (flood/wildfire) on insura
 │   └── powerbi/                          # Dashboard data
 │
 └── requirements.txt                      # Dependencies
-```
-
----
-
-## 🚀 Quick Start
-```bash
-# Clone repository
-git clone https://github.com/[YOUR-USERNAME]/climate-risk-insurance.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebooks sequentially
-jupyter notebook
 ```
 
 ---
@@ -160,24 +141,16 @@ jupyter notebook
 
 ## 👨‍💼 About
 
-**Author:** [Your Name]  
+**Author:** Deep Patil  
 **Role:** Data Analyst | ML Enthusiast  
-**Contact:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
+**Contact:** dpatil1034@gmail.com 
+**LinkedIn:** deep-patil-2330s30
 
 Built to demonstrate:
 - End-to-end analytics workflow
 - Production-quality ML models
 - Business-focused insights
 - Clean, documented code
-
-**Ideal for:** Big 4 Consulting, Insurance Analytics, Risk Management roles
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
@@ -192,13 +165,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 **⭐ Star this repo if you find it useful!**
 
-**📧 Questions?** Open an issue or reach out via [LinkedIn](YOUR_LINKEDIN_URL)
+**📧 Questions?** Open an issue or reach out via [LinkedIn](deep-patil-2330s30)
 
 """
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("✅ README.md created successfully!")
-print("   Location: README.md")
-print("   Size: {} characters".format(len(readme_content)))
