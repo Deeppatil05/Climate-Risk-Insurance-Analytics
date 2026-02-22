@@ -144,7 +144,8 @@ This project addresses: *"Assess climate change risks (flood/wildfire) on insura
 **Author:** Deep Patil  
 **Role:** Data Analyst | ML Enthusiast  
 **Contact:** dpatil1034@gmail.com 
-**LinkedIn:** deep-patil-2330s30
+**LinkedIn:** www.linkedin.com/in/deep-patil-2330s30
+
 
 Built to demonstrate:
 - End-to-end analytics workflow
@@ -165,6 +166,8 @@ Built to demonstrate:
 
 **⭐ Star this repo if you find it useful!**
 
-**📧 Questions?** Open an issue or reach out via [LinkedIn](deep-patil-2330s30)
+**📧 Questions?** Open an issue or reach out via [LinkedIn](www.linkedin.com/in/deep-patil-2330s30)
+
+
 
 """
