@@ -45,8 +45,7 @@ This project addresses: *"Assess climate change risks (flood/wildfire) on insura
 │   ├── visualizations/                   # 15+ charts & maps
 │   ├── models/                           # Trained ML models
 │   └── powerbi/                          # Dashboard data
-│
-└── requirements.txt                      # Dependencies
+
 ```
 
 ---
@@ -166,7 +165,7 @@ Built to demonstrate:
 
 **⭐ Star this repo if you find it useful!**
 
-**📧 Questions?** Open an issue or reach out via [LinkedIn](www.linkedin.com/in/deep-patil-2330s30)
+**📧 Questions?** Open an issue or reach out via [www.linkedin.com/in/deep-patil-2330s30]
 
 
 
