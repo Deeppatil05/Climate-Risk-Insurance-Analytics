@@ -78,7 +78,7 @@ This project addresses: *"Assess climate change risks (flood/wildfire) on insura
 ## 🎨 Sample Visualizations
 
 ### Climate Risk Map
-![Risk Choropleth](outputs/visualizations/03_risk_choropleth.png)
+![Risk Choropleth](outputs/visualizations/03_county_risk_choropleth.png)
 
 ### Model Performance
 ![Classification Models](outputs/visualizations/04_classification_models.png)
