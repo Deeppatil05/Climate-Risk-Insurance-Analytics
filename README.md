@@ -126,15 +126,30 @@ This project addresses: *"Assess climate change risks (flood/wildfire) on insura
 5. **Flood Zones**: Coastal flood risk drives 30% premium variance
 
 ---
+## 🔮 Roadmap & Future Enhancements
 
-## 🔮 Future Enhancements
+### In Progress 🚧
+- **PowerBI Dashboard**: Data prepared and ready (see `outputs/powerbi/`)
+  - Executive KPI cards
+  - Interactive risk maps
+  - Premium analysis dashboards
+  - *Status: Dataset ready, dashboard pending*
 
-- [ ] PowerBI interactive dashboard
-- [ ] Real-time weather data integration
-- [ ] Streamlit web application
+### Planned Enhancements 📋
+- [ ] Streamlit web application for real-time predictions
 - [ ] Cloud deployment (AWS/Azure)
-- [ ] Deep learning models
-- [ ] REST API for predictions
+- [ ] Real-time weather API integration
+- [ ] Deep learning models (Neural Networks)
+- [ ] REST API for prediction services
+- [ ] Automated email reporting system
+
+### Completed ✅
+- [x] Data collection pipeline (NASA + FEMA)
+- [x] ML models (Classification + Regression)
+- [x] Geospatial visualizations (15+ charts)
+- [x] Model evaluation framework
+- [x] Business intelligence data preparation
+
 
 ---
 
@@ -165,8 +180,7 @@ Built to demonstrate:
 
 **⭐ Star this repo if you find it useful!**
 
-**📧 Questions?** Open an issue or reach out via [www.linkedin.com/in/deep-patil-2330s30]
+**📧 Questions?** Open an issue or reach out via [(www.linkedin.com/in/deep-patil-2330s30])
 
 
 
-"""
